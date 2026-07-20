@@ -1,3 +1,3 @@
 # Student A Project
-### Hello
-##### This is DevOps Lab 3
+Hello
+Hi, this is Student C.
